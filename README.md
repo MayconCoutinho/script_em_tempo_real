@@ -2,7 +2,7 @@
 
 ## ***📌 Observações:***
 
-Apesar de ser um script simples e com poucas linhas, acredito ser bem eficiente para projetos simples em que não exige reação acima de 2 segundos para indentificar uma imagem em tempo real, acredito que tenha como diminuir o tempo de reação atavés de uma imagem com menos pixel ou diminuindo a "certeza" de que a imagem são semelhantes que esta em 0.8 ou 80% de "certeza", no entanto isso costuma diminuir a eficiencia do script.
+&emsp; Apesar de ser um script simples e com poucas linhas, acredito ser bem eficiente para projetos simples em que não exige reação acima de 2 segundos para indentificar uma imagem em tempo real. Acredito que tenha como diminuir o tempo de reação atavés de uma imagem com menos pixel ou diminuindo a "certeza" de que as duas imagens são semelhantes, a "certeza" esta em 0.8 ou 80%, no entanto isso costuma diminuir a eficiencia do script.
 
    
 
