@@ -1,5 +1,3 @@
-# script_lol
-
 &nbsp;
 
 # ***🕹 Script em python LoL***
