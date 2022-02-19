@@ -14,7 +14,7 @@
 
 ## ***📌 Oque o Script faz :***
 
-   - [x] Indentificar o inimigo.
+   - [x] Indentificar o Boneco-alvo.
    - [x] Mira nele ao pressionar uma habilidade ("q","w","e","r").
    - [x] Desativar e ativar script apertando "s".
 
