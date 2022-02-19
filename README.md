@@ -1,4 +1,4 @@
-### ***<h1 align="center"> 🕹 Script em python LoL </h1>***
+### ***<h1 align="center"> 🕹 Script em python </h1>***
 
 ## ***📌 Observações:***
 
