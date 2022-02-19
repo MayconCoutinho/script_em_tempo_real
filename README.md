@@ -16,15 +16,12 @@
 &nbsp;
 
 ## ***📌 Oque o Script faz :***
-&nbsp;
+
    - [x] Indentificar o inimigo.
    - [x] Mira nele ao pressionar uma habilidade ("q","w","e","r").
    - [x] Desativar e ativar script apertando "s".
 
-&nbsp;
-
 ## ***📡 Imports :***
-
 
 ```python
  
