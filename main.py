@@ -1,5 +1,4 @@
 def alinha():
-
     from pyautogui import locateOnScreen, click    
 
 
@@ -21,27 +20,9 @@ def alinha():
 
     return False
 
-def farma_minio():
-
-    from pyautogui import locateOnScreen, click
-
-    button_pos = locateOnScreen('./Image/minio.png', confidence=0.8)
-            
-    if button_pos != None:
-        
-        #print(f'Found {button_pos}')
-
-        click(button_pos.left, button_pos.top, button="RIGHT", interval=1)
-
-        return True
-    
-    return False
-
 print("Esperando imagem...")
 
 ligado = True
-
-print("Ta ligado")
 
 while True:
     from keyboard import is_pressed
@@ -57,7 +38,6 @@ while True:
         print('Ta desligado')
         sleep(1)
                
-
     if ligado == True:
  
         if is_pressed('q'):
